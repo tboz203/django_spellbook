@@ -2,7 +2,7 @@
 !.gitignore
 !.dockerignore
 
-*.py[co]
+__pycache__
 
 /venv
 /*.sqlite3
