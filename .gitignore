@@ -2,6 +2,8 @@
 !.gitignore
 !.dockerignore
 
+*.py[co]
+
 /venv
 /*.sqlite3
 /*.xz
